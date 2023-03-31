@@ -1,1 +1,0 @@
-alert("Cảnh đẹp zai")
